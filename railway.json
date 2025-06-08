@@ -9,12 +9,12 @@
     },
     "ALIVE_IMG": {
       "required": false,
-      "default": "https://github.com/DANUWA-MD/DANUWA-BOT/blob/main/images/Danuwa%20-%20MD.png?raw=true",
+      "default": "https://github.com/DarkChenu/Dark-Chenu/blob/main/5faa8a2e-62c8-49bc-bf78-adaff8cc2c2d.png?raw=true",
       "description": "Alive command image URL"
     },
     "ALIVE_MSG": {
       "required": false,
-      "default": "*Hello👋 DANUWA-MD Is Alive Now😍*",
+      "default": "*Hello👋 DARKZ-MD Is Alive Now😍*",
       "description": "Custom alive message"
     },
     "MOVIE_API_KEY": {
@@ -32,7 +32,7 @@
     },
     "BOT_OWNER": {
       "required": true,
-      "description": "Owner's number (e.g., 94712345678)"
+      "description": "Owner's number (e.g., 94762877975)"
     },
     "OWNER_NUMBER": {
       "required": true,
