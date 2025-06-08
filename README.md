@@ -1,13 +1,13 @@
 <h1 align="center" style="font-weight:bold;">
-⚡ Ｄ Ａ Ｎ Ｕ Ｗ Ａ － Ｍ Ｄ ⚡
+⚡ D A R K Z － M D ⚡
 </h1>
 
 <p align="center">
-  <img src="https://github.com/DANUWA-MD/DANUWA-MD/blob/main/images/Danuwa%20-%20MD.png?raw=true" alt="DANUWA-MD Logo" style="border-radius: 50px; box-shadow: 0 0 20px #00ffe5, 0 0 30px #00ffe5, 0 0 40px #00ffe5;">
+  <img src="https://github.com/DarkChenu/Dark-Chenu/blob/main/5faa8a2e-62c8-49bc-bf78-adaff8cc2c2d.png?raw=true" style="border-radius: 50px; box-shadow: 0 0 20px #00ffe5, 0 0 30px #00ffe5, 0 0 40px #00ffe5;">
 </p> 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Hello+How+are+you%3F;Welcome+to+DANUWA-MD+WhatsApp+Bot;I'm+Danuka+Disanayaka" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Hello+How+are+you%3F;Welcome+to+DARKZ-MD+WhatsApp+Bot;I'm+Dark+Chenu" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -33,13 +33,13 @@
 
 ---
 
-## 📍 What is DANUWA-MD?
+## 📍 What is DARKZ-MD?
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Multi-device+WhatsApp+bot;Modular+plugin+architecture;Media+and+group+management+tools" alt="Typing SVG" />
 </p>
 
-**DANUWA-MD** is a multi-device WhatsApp bot written in Node.js using the [Baileys](https://github.com/adiwajshing/Baileys) library. It supports QR/Pairing code login, a plugin-based command system, and various media tools such as sticker conversion, song and video downloads, and group management commands.
+**DARKZ-MD** is a multi-device WhatsApp bot written in Node.js using the [Baileys](https://github.com/adiwajshing/Baileys) library. It supports QR/Pairing code login, a plugin-based command system, and various media tools such as sticker conversion, song and video downloads, and group management commands.
 
 ---
 
@@ -209,13 +209,13 @@ jobs:
 
 ---
 
-## 🚄 How to Deploy DANUWA-MD on Railway
+## 🚄 How to Deploy Darkz-MD on Railway
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Deploy+via+Railway;Easy+one+tap+deployment" alt="Typing SVG" />
 </p>
 
-You can easily deploy your own instance of DANUWA-MD on Railway with just one click.
+You can easily deploy your own instance of Darkz-MD on Railway with just one click.
 
 1. Click the "Deploy on Railway" button.
 
@@ -235,7 +235,7 @@ Click "Deploy" — Railway will handle the rest!
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Fast%2C+lightweight%2C+and+modular;Smart+commands+and+media+support;Built+with+Baileys" alt="Typing SVG" />
 </p>
 
-DANUWA-MD is designed with scalability, flexibility, and functionality in mind. Here’s what it offers:
+DARKZ-MD is designed with scalability, flexibility, and functionality in mind. Here’s what it offers:
 
 | Category          | Description |
 |------------------|-------------|
@@ -285,23 +285,22 @@ We’re constantly improving DANUWA-MD to bring more power to your fingertips. H
 </p>
 
 <p align="center">
-  <img src="https://github.com/DANUWA-MD/DANUWA-MD/blob/main/images%20/Danuka%20Dissanayake.jpg?raw=true" width="540" style="border-radius: 50px;" alt="Danuka Disanayaka"/>
+  <img src="https://github.com/DarkChenu/Dark-Chenu/blob/main/5faa8a2e-62c8-49bc-bf78-adaff8cc2c2d.png?raw=true" width="540" style="border-radius: 50px;" alt="Dark Chenu"/>
 </p>
 
 <h1 align="center" style="color:#10B981; font-weight:bold;">
-  Danuka Disanayaka
+  Dark Chenu
 </h1>
 
 <p align="center">
-Danuka Disanayaka is a passionate full-stack developer and automation enthusiast with a focus on building scalable bots, AI integrations, and open-source tools. With a deep understanding of JavaScript, Node.js, and real-time systems, Harshana actively contributes to the developer community by creating tools that simplify communication and task automation. His work emphasizes clean code, performance, and user-centric design.
+Dark Chenu is a passionate full-stack developer and automation enthusiast with a focus on building scalable bots, AI integrations, and open-source tools. With a deep understanding of JavaScript, Node.js, and real-time systems, Harshana actively contributes to the developer community by creating tools that simplify communication and task automation. His work emphasizes clean code, performance, and user-centric design.
 </p>
 
 <p align="center">
-  <a href="https://github.com/DANUWA_MD">GitHub</a> • 
-  <a href="https://www.youtube.com/@quizontal">YouTube</a> •
-  <a href="https://Wa.me/+94776121326">WhatsApp</a> •
-  <a href="https://www.facebook.com/share/1AM4qa8S4e/">Facebook</a>
-
+  <a href="https://github.com/DarkChenu">GitHub</a> • 
+  <a href="https://www.youtube.com/@Tunes1N">YouTube</a> •
+  <a href="https://Wa.me/+94762877975">WhatsApp</a> •
+  <a href="https://www.facebook.com/chenula.gajanayake">Facebook</a>
 
 </p>
 
@@ -317,4 +316,4 @@ This project is licensed under the [MIT License](./LICENSE).
 
 If you like this project, don’t forget to ⭐️ the repo!
 
-> ⚙️ Made with ❤️ by **DANUKA DISSANAYAKA**🔥
+> ⚙️ Made with ❤️ by **DARK CHENU**🔥
