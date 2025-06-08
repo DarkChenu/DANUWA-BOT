@@ -27,13 +27,13 @@ const port = process.env.PORT || 8000;
 
 const prefix = '.';
 if (!fs.existsSync(__dirname + '/auth_info_baileys/creds.json')) {
-  if (!config.SESSION_ID) return console.log('❗ [DANUWA-MD] SESSION_ID not found in env. Please configure it.');
+  if (!config.SESSION_ID) return console.log('❗ [Darkz-MD] SESSION_ID not found in env. Please configure it.');
   const sessdata = config.SESSION_ID;
   const filer = File.fromURL(`https://mega.nz/file/${sessdata}`);
   filer.download((err, data) => {
     if (err) throw err;
     fs.writeFile(__dirname + '/auth_info_baileys/creds.json', data, () => {
-      console.log("📥 [DANUWA-MD] Session file downloaded and saved.");
+      console.log("📥 [Darkz-MD] Session file downloaded and saved.");
     });
   });
 }
@@ -41,7 +41,7 @@ if (!fs.existsSync(__dirname + '/auth_info_baileys/creds.json')) {
 const { replyHandlers, commands } = require('./command');
 
 async function connectToWA() {
-  console.log("🛰️ [DANUWA-MD] Initializing WhatsApp connection...");
+  console.log("🛰️ [Darkz-MD] Initializing WhatsApp connection...");
   const { state, saveCreds } = await useMultiFileAuthState(__dirname + '/auth_info_baileys/');
   const { version } = await fetchLatestBaileysVersion();
 
@@ -59,15 +59,15 @@ async function connectToWA() {
     if (connection === 'close' && lastDisconnect?.error?.output?.statusCode !== DisconnectReason.loggedOut) {
       connectToWA();
     } else if (connection === 'open') {
-      console.log("🔧 [DANUWA-MD] Installing plugins...");
+      console.log("🔧 [Darkz-MD] Installing plugins...");
       const path = require('path');
       fs.readdirSync("./plugins/").forEach((plugin) => {
         if (path.extname(plugin).toLowerCase() === ".js") {
           require("./plugins/" + plugin);
         }
       });
-      console.log("✅ [DANUWA-MD] Plugins installed successfully.");
-      console.log("📶 [DANUWA-MD] Successfully connected to WhatsApp!");
+      console.log("✅ [Darkz-MD] Plugins installed successfully.");
+      console.log("📶 [Darkz-MD] Successfully connected to WhatsApp!");
 
       const up = `
 ╔═══◉ *🟢 STATUS: ONLINE* ◉═══╗
@@ -77,14 +77,14 @@ async function connectToWA() {
 
 🧾 *PROFILE INFORMATION*
 ┌──────── ⋆⋅☆⋅⋆ ────────┐
-│ 🔐 *Owner:* Danuka Disanayaka  
-│ 👤 *Botname:* DANUWA-MD  
+│ 🔐 *Owner:* Dark Chenu  
+│ 👤 *Botname:* Darkz-MD  
 │ ⚡ *Bio:* Powerful WhatsApp Bot  
 │ 🧩 *Role:* Wizard Lord 🧙‍♂️  
 └──────── ⋆⋅☆⋅⋆ ────────┘
 
-🚀 Powered By *DANUKA*
-*DISANAYAKA* 🔥
+🚀 Powered By *Dark*
+*Chenu* 🔥
       `;
       conn.sendMessage(ownerNumber[0] + "@s.whatsapp.net", {
         image: { url: config.ALIVE_IMG },
@@ -187,10 +187,10 @@ switch ((config.MODE || 'public').toLowerCase()) {
 }
 
 app.get("/", (req, res) => {
-  res.send("Hey, DANUWA-MD started✅");
+  res.send("Hey, Darkz-MD started✅");
 });
 
-app.listen(port, () => console.log(`🌐 [DANUWA-MD] Web server running → http://localhost:${port}`));
+app.listen(port, () => console.log(`🌐 [Darkz-MD] Web server running → http://localhost:${port}`));
 
 setTimeout(() => {
   connectToWA();
