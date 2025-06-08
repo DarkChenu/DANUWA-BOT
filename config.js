@@ -12,15 +12,15 @@ function convertToBool(text, fault = 'true') {
 
 
 const defaultConfig = {
-  SESSION_ID: "", // Put your session id here
-  ALIVE_IMG: "https://github.com/DANUWA-MD/DANUWA-BOT/blob/main/images/Danuwa%20-%20MD.png?raw=true",
-  ALIVE_MSG: "*Hello👋 DANUWA-MD Is Alive Now😍*", // Change alive msg from here
-  OPENAI_API_KEY: "",// Add OPENAI API key here
-  GEMINI_API_KEY: "", // Add Gemini API key here
-  REMOVE_BG_API_KEY:"", // Add removebg API key here
-  WEATHER_API_KEY: "", // Add your weather API key here
-  BOT_OWNER: "94776121326", // Replace your bot owner number here with 94(country code)
-  ownerNumber: ["94776121326"], // Replace your bot owner number here (same as bot owner number)
+  SESSION_ID: "7Mgj3Cra#aU0O0fDeTwoPJzzn17hhUFuwJlv_RY9b4AEEf0MpHWc", // Put your session id here
+  ALIVE_IMG: "https://github.com/DarkChenu/Dark-Chenu/blob/49687b66f4881ba6f18c1aa0631d13c3ebe42675/5faa8a2e-62c8-49bc-bf78-adaff8cc2c2d.png?raw=true",
+  ALIVE_MSG: "*Hello👋 Darkz-MD Is Alive Now😍*", // Change alive msg from here
+  OPENAI_API_KEY: "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",// Add OPENAI API key here
+  GEMINI_API_KEY: "AIzaSyD1PCftbQD2O1_Kk22sXAcDUi1mVFeSxFo", // Add Gemini API key here
+  REMOVE_BG_API_KEY:"qTmLg3cCfvfY8gvy7EZrrzJM", // Add removebg API key here
+  WEATHER_API_KEY: "c8e70b25be9c468881d91203250806", // Add your weather API key here
+  BOT_OWNER: "94762877975", // Replace your bot owner number here with 94(country code)
+  ownerNumber: ["94762877975"], // Replace your bot owner number here (same as bot owner number)
   AUTO_READ_STATUS: "true", // Turn on or off auto read status from here
   MODE: "public", // 'private', 'public'
 };
